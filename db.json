@@ -1,0 +1,9 @@
+{
+  "subscribers": [
+    {
+      "name": "test",
+      "mail": "test@gmail.com"
+    }
+  ],
+  "count": 1
+}
