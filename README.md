@@ -1,7 +1,7 @@
 # Bir Dolar Kac TL ?
 Bir Doların Kaç TL Olduğunu Gerçek Zamanlı Olarak Takip Edebileceğiniz Küçük Bir İnternet Sitesi. Ayrıca Projeye Dolar, Euro, Altın ve Borsa İstanbul Takibi Yapan Bir Api Dahildir. <br/><br/>
-<strong>İnternet Sitesi: </strong> [birdolarkactl.herokuapp.com](http://birdolarkactl.herokuapp.com/)
 
+> **İnternet Sitesi :** https://birdolarkactl.herokuapp.com/
 
 ## Kullanılan Teknolojiler
 - Node.js
@@ -28,9 +28,8 @@ npm start
 
 ## Api Servisi
 - Canlı Olarak Dolar, Euro, Altın ve Borsa İstanbul Değerlerini Aşağıdaki Api Servisi Üzerinden Json Formatta Alabilirsiniz.
-```bash
-http://birdolarkactl.herokuapp.com/api
-```
+
+> **Api Servisi :** https://birdolarkactl.herokuapp.com/api
 
 ## Veri Kaynağı
 Veriler mynet.com üzerinden cheerio kütüphanesi aracılığıyla çekilmektedir.
